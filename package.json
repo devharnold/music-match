@@ -1,0 +1,27 @@
+{
+  "name": "music-match",
+  "version": "1.0.0",
+  "description": "Picks your listening data from the app you use then fast-forwards it to instagram so that you can use it on Instagram notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devharnold/music-match.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devharnold/music-match/issues"
+  },
+  "homepage": "https://github.com/devharnold/music-match#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
